@@ -1,11 +1,11 @@
-# 13 criativos Meta: roteiros finais para produção
+# 12 criativos Meta: roteiros finais para produção
 
 Curso Vídeo em 1 Clique · R$ 97 · checkout Cakto · página https://curso.videoviralai.com.br
-Aprovado pelo Diego em 03/10/2026, com as mudanças dele: sem garantia de 7 dias, fala sem respiração e acelerada, e 3 criativos novos (11, 12 e 13). Linha geral: **atacar a dor, e o remédio é o curso.**
+Aprovado pelo Diego em 03/10/2026. O antigo criativo do fundador foi cancelado: o Diego não aparece em nenhum vídeo. Mudanças dele: sem garantia de 7 dias, fala sem respiração e acelerada, e 3 criativos novos (10, 11 e 12). Linha geral: **atacar a dor, e o remédio é o curso.**
 
 Skills de base: `coreyhaines31/marketingskills@ad-creative` (formatos Meta S a F, sistema de gancho em 3 partes, regra da ponte, especificação de vídeo vertical) e `ig-reel` (26 fórmulas de gancho e `hookscore_pt.py`; a nota de cada gancho falado está entre parênteses).
 
-## Padrão técnico (vale para os 13)
+## Padrão técnico (vale para os 12)
 
 - 1080x1920, 30 fps, MP4 H.264. Exportar também 4:5 (1080x1350) para o feed.
 - Tudo que é texto fica na área segura: x de 180 a 900, y de 220 a 1420.
@@ -17,7 +17,7 @@ Skills de base: `coreyhaines31/marketingskills@ad-creative` (formatos Meta S a F
 - Telas do Claude recriadas, com o selo "tela ilustrativa". Os pedidos mostrados são os reais do Caderno de Prompts.
 - Em todo criativo, aparece por escrito "Precisa do plano Claude Pro".
 - Proibido: garantia de 7 dias, "melhor curso", "dinheiro fácil", "código", "terminal" e "programação".
-- Criativos com personagem (4, 8, 11, 12 e 13) levam no canto o selo "Dramatização". A personagem nunca é apresentada como aluna real.
+- Criativos com personagem (4, 10, 11 e 12) levam no canto o selo "Dramatização". A personagem nunca é apresentada como aluna real.
 
 ## Tabela de diversidade
 
@@ -30,12 +30,11 @@ Skills de base: `coreyhaines31/marketingskills@ad-creative` (formatos Meta S a F
 | 5 | A hora perdida | Antes e depois | Contraste (#13) | Comparação | Social media | Tela dividida fria e quente |
 | 6 | Pedido da padaria | Tutorial relâmpago | Copia isso (#9) | Dor | Negócio local | Comida em close, luz quente |
 | 7 | Roteiros parados | Motion de colagem | Se você... (#10) | Dor | Canal sem rosto | Colagem com retícula |
-| 8 | Por que eu fiz | Fundador | Confissão | Identidade | Renda extra | Documental 16 mm |
-| 9 | Quinta, 23h | Reação com corte seco | Situação específica | Dor | Social media | Noite no celular e tela clara |
-| 10 | A conta inteira | Objeção de preço | A conta (#6) | Objeção (custo) | Canal sem rosto | Tipografia suíça sobre mesa |
-| 11 | Pai e filho | História dramatizada | Confissão do pai | Desejo (renda para o filho) | Pai de adolescente | Cinema realista, luz de casa |
-| 12 | Açaí parado | História dramatizada, antes e depois | Confissão da dona | Dor | Negócio local (açaí) | Cores tropicais, balcão real |
-| 13 | Vídeo flopado | Comparação lado a lado | Pergunta direta + contraste | Dor (engajamento) | Influenciador | Tela dividida de Reels e contador |
+| 8 | Quinta, 23h | Reação com corte seco | Situação específica | Dor | Social media | Noite no celular e tela clara |
+| 9 | A conta inteira | Objeção de preço | A conta (#6) | Objeção (custo) | Canal sem rosto | Tipografia suíça sobre mesa |
+| 10 | Pai e filho | História dramatizada | Confissão do pai | Desejo (renda para o filho) | Pai de adolescente | Cinema realista, luz de casa |
+| 11 | Açaí parado | História dramatizada, antes e depois | Confissão da dona | Dor | Negócio local (açaí) | Cores tropicais, balcão real |
+| 12 | Vídeo flopado | Comparação lado a lado | Pergunta direta + contraste | Dor (engajamento) | Influenciador | Tela dividida de Reels e contador |
 
 ---
 
@@ -129,23 +128,7 @@ Depois, o cartão final de 3 s.
 - **Título:** "Roteiro parado vira vídeo pronto"
 - **Descrição:** "Aulas curtas e diretas"
 
-## 8. Por que eu fiz (fundador) · ESPERANDO A HISTÓRIA E A GRAVAÇÃO DO DIEGO
-**Gancho.** Imagem: fotos ou vídeo reais do Diego. Fala: "Eu nunca tinha editado um vídeo antes de [ano]." (81). **Só vai ao ar se a frase for verdade.**
-
-**Fala** (jornada do herói, a completar com a história real):
-> Eu nunca tinha editado um vídeo antes de [ano]. [Sua situação antes, em 2 frases.] Aí eu descobri que dava para pedir o vídeo para a IA em português, e ela montava tudo. [O que você fez com isso, em 1 frase real.] Juntei o passo a passo num curso curto, para quem nunca editou nada: o Vídeo em 1 Clique. Precisa do Claude Pro. Toque em Saiba mais.
-
-**Voz: o Diego grava** (confirmado). Como gravar no celular:
-- Quarto com cortina ou roupa por perto (menos eco), celular a um palmo da boca, modo avião.
-- Leia o texto inteiro 3 vezes seguidas, num ritmo animado, sem parar entre as frases. Se errar, repita só a frase e siga.
-- Mande o arquivo de áudio original (sem passar pelo WhatsApp, que comprime). O Claude escolhe a melhor leitura, tira respirações e pausas e limpa o som.
-- Se puder, grave também 10 a 15 segundos de vídeo seu no computador ou andando, e mande 3 a 5 fotos reais suas (de antes e de agora).
-
-- **Texto principal:** "[Sua história em 1 frase]. Fiz o curso para quem nunca editou nada. Usa o Claude Pro."
-- **Título:** "Do zero ao primeiro vídeo pronto"
-- **Descrição:** "Feito para quem nunca editou"
-
-## 9. Quinta, 23h (reação com corte seco)
+## 8. Quinta, 23h (reação com corte seco)
 **Gancho.** Imagem: uma pessoa no sofá à noite, com a luz do celular no rosto (Pexels). Fala: "São 23h, você deve 4 Reels ao cliente e ainda não editou nenhum." (88). Tela: "entrega na sexta".
 
 **Fala completa:**
@@ -157,7 +140,7 @@ Depois, o cartão final de 3 s.
 - **Título:** "Entregue os Reels dos seus clientes"
 - **Descrição:** "Inclui aula de entrega"
 
-## 10. A conta inteira
+## 9. A conta inteira
 **Gancho.** Imagem: mãos colocando um recibo numa mesa de madeira, com os números aparecendo. Fala: "Seu vídeo com IA custa R$ 97 uma vez, mais o Claude Pro." (84).
 
 **Fala completa:**
@@ -169,7 +152,7 @@ Depois, o cartão final de 3 s.
 
 ---
 
-## 11. Pai e filho (dramatização) · NOVO
+## 10. Pai e filho (dramatização) · NOVO
 **Personagens realistas:** um pai de uns 45 anos, de camisa simples, e um filho de 15. Primeira opção: filmagem do Pexels com o mesmo casal de atores em várias cenas. Se não houver, imagens geradas realistas com o mesmo rosto em todas as cenas, animadas com movimento sutil.
 
 **Gancho.** Imagem: o pai na mesa da cozinha à noite, olhando o filho deitado no sofá com o celular. Fala (voz do pai): "Meu filho de 15 anos passava o dia inteiro no celular sem fazer nada." (72). Tela: "15 ANOS. O DIA TODO NO CELULAR."
@@ -195,7 +178,7 @@ Depois, o cartão final de 3 s.
 
 **Versão B, de segurança** (mesmo vídeo, troca só de 28 a 36 s): sem a conta mensal. Fica "Primeiro cliente: a lanchonete. Depois, a barbearia. Ele mesmo define o preço." Subir a B se o Meta reprovar a A.
 
-## 12. Açaí parado (dramatização) · NOVO
+## 11. Açaí parado (dramatização) · NOVO
 **Personagem realista:** uma dona de açaí de uns 35 anos, com avental, num balcão real e cores tropicais.
 
 **Gancho.** Imagem: o balcão vazio, os potes cheios e ela olhando o celular, que não toca. Fala (voz dela): "Meu açaí passava 3 horas sem vender um copo e o celular nem tocava." (76). Tela: "3 HORAS SEM VENDER".
@@ -218,7 +201,7 @@ Depois, o cartão final de 3 s.
 - **Título:** "Vídeo que faz o açaí aparecer"
 - **Descrição:** "Para negócio local"
 
-## 13. Vídeo flopado (influenciador) · NOVO
+## 12. Vídeo flopado (influenciador) · NOVO
 **Personagem realista:** um criador de uns 25 anos, gravando com o celular no quarto e luz de ring light.
 
 **Gancho.** Imagem: tela dividida. À esquerda, o vídeo cru dele, sem corte, com o contador parado em "200 visualizações". À direita, o mesmo vídeo editado, com legenda karaokê, zoom nos cortes e efeitos. Fala: "Seu vídeo flopou de novo com 200 visualizações? Olha o mesmo vídeo editado." (52).
