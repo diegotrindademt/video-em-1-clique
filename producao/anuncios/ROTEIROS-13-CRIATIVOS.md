@@ -129,13 +129,17 @@ Depois, o cartão final de 3 s.
 - **Título:** "Roteiro parado vira vídeo pronto"
 - **Descrição:** "Aulas curtas e diretas"
 
-## 8. Por que eu fiz (fundador) · DEPENDE DO DIEGO
+## 8. Por que eu fiz (fundador) · ESPERANDO A HISTÓRIA E A GRAVAÇÃO DO DIEGO
 **Gancho.** Imagem: fotos ou vídeo reais do Diego. Fala: "Eu nunca tinha editado um vídeo antes de [ano]." (81). **Só vai ao ar se a frase for verdade.**
 
 **Fala** (jornada do herói, a completar com a história real):
 > Eu nunca tinha editado um vídeo antes de [ano]. [Sua situação antes, em 2 frases.] Aí eu descobri que dava para pedir o vídeo para a IA em português, e ela montava tudo. [O que você fez com isso, em 1 frase real.] Juntei o passo a passo num curso curto, para quem nunca editou nada: o Vídeo em 1 Clique. Precisa do Claude Pro. Toque em Saiba mais.
 
-O ideal é a voz do Diego, gravada no celular. A voz Orus fica como plano B.
+**Voz: o Diego grava** (confirmado). Como gravar no celular:
+- Quarto com cortina ou roupa por perto (menos eco), celular a um palmo da boca, modo avião.
+- Leia o texto inteiro 3 vezes seguidas, num ritmo animado, sem parar entre as frases. Se errar, repita só a frase e siga.
+- Mande o arquivo de áudio original (sem passar pelo WhatsApp, que comprime). O Claude escolhe a melhor leitura, tira respirações e pausas e limpa o som.
+- Se puder, grave também 10 a 15 segundos de vídeo seu no computador ou andando, e mande 3 a 5 fotos reais suas (de antes e de agora).
 
 - **Texto principal:** "[Sua história em 1 frase]. Fiz o curso para quem nunca editou nada. Usa o Claude Pro."
 - **Título:** "Do zero ao primeiro vídeo pronto"
@@ -231,7 +235,7 @@ O ideal é a voz do Diego, gravada no celular. A voz Orus fica como plano B.
 
 **Rodapé:** "Dramatização. Números ilustrativos."
 
-**Atenção:** "É a última vez que você vê esse preço" só pode ir ao ar se o preço realmente subir. Sem essa confirmação, a frase vira "Preço de entrada: R$ 97".
+**Confirmado pelo Diego em 03/10/2026:** R$ 97 é o preço de entrada enquanto a conta de anúncios esquenta, e ele vai subir. A frase "É a última vez que você vê esse preço" está liberada. Quando o preço subir, pausar este criativo.
 
 - **Texto principal:** "Seu conteúdo é bom, a edição que segura. Aprenda a editar como profissional pedindo para a IA, por R$ 97. Usa Claude Pro."
 - **Título:** "Edite como profissional por R$ 97"
